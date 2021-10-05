@@ -1,1 +1,2 @@
-# crush-the-zombies-3-help-
+# zombie-crush-1
+project solution for c29
